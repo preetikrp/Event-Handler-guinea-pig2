@@ -1,0 +1,30 @@
+.blue{
+color: blue;	
+}
+
+.large{
+	font-size: large;
+}
+
+
+.border{
+	border-style: solid;
+}
+
+.round{
+	border-radius: 15px;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.font{
+	font-style: italic;
+	font-weight: bold;
+
+}
+
+button{
+	display: block;
+}
